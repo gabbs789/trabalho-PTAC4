@@ -9,8 +9,8 @@
   --primary: #22c55e; /* green-500 */
   --primary-600: #16a34a; /* green-600 */
   --accent: #f59e0b; /* amber-500 */
-  --danger: #ef4444; /* red-500 */
-  --focus: #60a5fa; /* blue-400 */
+  --danger: #ef4444;
+  --focus: #60a5fa; 
   --radius: 12px;
 }
 
